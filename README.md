@@ -65,9 +65,6 @@ The format of the response for histogram is as follows:
     "to-hour": "2016-05-08T02:00:00Z",
     "frequency": 1
   },
-  .
-  .
-  .
 ```
 
 * "from-hour" indicates the start of the hour
